@@ -1,4 +1,5 @@
 # MOAM
+MOAM leverages biological pathway information for feature construction and inte-grates cross-attention, multi-head attention, and Kolmogorov-Arnold Networks (KAN) for feature learning and classification. The cross-attention mechanism effectively captures dependencies among different omics data, while the multi-head attention mechanism further extracts key features. Additionally, KAN enhances feature repre-sentation through nonlinear transformations. 
 
 # File description
 KEGG_pathways, Annotation relationships between genes/miRNA and KEGG pathways. 
